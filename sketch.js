@@ -50,7 +50,8 @@ noStroke();
 textFont("calibri light");
 textSize(20);
 fill(255)
-text("Press Spacebar or Up Arrow key ",50,30);
+text("Press Spacebar or Up Arrow key or just Click ",20,30);
+
 
 bird.show();
 
